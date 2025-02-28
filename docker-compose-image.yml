@@ -1,6 +1,6 @@
-version: '3.5'
+version: '1.0'
 services:
-  # dify2openai API relay service
+  # dify_chat_openapi API relay service
   dify_chat_openapi:
    #  build: dify_chat_openapi
     image: difyitcg/dify_chat_openapi:latest
