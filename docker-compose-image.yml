@@ -10,6 +10,6 @@ services:
       - "3011:3011"
     restart: always
     environment: 
-      - DIFY_API_URL=http://kb.itcg.cn/v1
+      - DIFY_API_URL=http://IP地址api的/v1
       - BOT_TYPE=Chat
       - MODELS_NAME=gpt-3.5-turbo
