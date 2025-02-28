@@ -1,1 +1,1 @@
-# dify_chat_openapi
+# DifyAPI转换为OpenAPI通用格式
